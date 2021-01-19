@@ -1,6 +1,6 @@
 {
-  "name": "microsoft-clarity",
-  "version": "1.0.0",
+  "name": "frontity-microsoft-clarity",
+  "version": "1.0.1",
   "description": "Analytics package to use Microsoft Clarity with Frontity",
   "homepage": "https://github.com/frontity/frontity",
   "license": "Apache-2.0",
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/frontity/frontity.git"
+    "url": "https://github.com/Bowriverstudio/frontity-microsoft-clarity"
   },
   "scripts": {
     "test:ci": "../../node_modules/.bin/jest --ci --coverage",
@@ -19,6 +19,6 @@
     "test:inspect": "node --inspect ../../node_modules/jest/bin/jest.js --watch --no-cache --runInBand"
   },
   "bugs": {
-    "url": "https://github.com/frontity/frontity/issues"
+    "url": "https://github.com/Bowriverstudio/frontity-microsoft-clarity/issues"
   }
 }
